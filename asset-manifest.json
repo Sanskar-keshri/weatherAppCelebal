@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weatherAppCelebal/static/css/main.609b462e.css",
+    "main.js": "/weatherAppCelebal/static/js/main.1433268c.js",
+    "index.html": "/weatherAppCelebal/index.html",
+    "main.609b462e.css.map": "/weatherAppCelebal/static/css/main.609b462e.css.map",
+    "main.1433268c.js.map": "/weatherAppCelebal/static/js/main.1433268c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.609b462e.css",
+    "static/js/main.1433268c.js"
+  ]
+}
